@@ -20,3 +20,15 @@
     padding-right: 0 !important;
     padding-left: 0 !important;
 }
+
+.header_nav_button{
+    background-color: #0A3254;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 4px;  /* This adjust how round the puttons are. */
+}
+
+.header_nav_button:hover{
+    background-color: #CEBFA5;
+    color:  #0A3254;
+}
